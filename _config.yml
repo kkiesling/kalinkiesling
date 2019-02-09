@@ -1,8 +1,8 @@
 # site settings
 title: Kalin Kiesling
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+subtitle: Graduate Student
+email: krkiesling@gmail.com
+description: PhD student in nuclear engineering at the University of Wisconsin-Madison.
 baseurl: "/kalinkiesling" # the subpath of your site, e.g. /blog
 url: kkiesling.github.io # the base hostname & protocol for your site
 author:
